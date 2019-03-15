@@ -4,3 +4,4 @@ echo "this is running in a buid step"
 echo "this is a param $PASSED"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
+echo "this is complete"

@@ -6,3 +6,6 @@ NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
 echo "this is complete"
 echo "this is completed using build trigger"
+echo "Chechking trigger"
+
+

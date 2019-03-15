@@ -5,6 +5,6 @@ echo "this is a param $PASSED"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
 echo "this is complete"
-echo "Chechking trigger"
+echo "Chechking trigger2"
 
 
